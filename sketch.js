@@ -57,8 +57,8 @@ function setup(){
     // rotator1 = rectangle(250,200,150,20,rotator_options);
     // World.add(world,rotator1);
 
-     rotator1 = Bodies.rectangle();
-     World.add(world,rotator1);
+    // rotator1 = Bodies.rectangle();
+    // World.add(world,rotator1);
 
     // rotator1 = Bodies.circle(250,200,150,20,rotator_options);
     // World.add(world,rotator1);
